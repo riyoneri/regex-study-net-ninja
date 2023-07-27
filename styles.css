@@ -22,3 +22,9 @@ input{
     border: 3px solid #ccc;
     outline: none !important;
 }
+
+
+/* validation styles */
+input.valid {
+    border-color: #36cc36;
+}
